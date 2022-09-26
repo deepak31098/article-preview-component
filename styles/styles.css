@@ -90,6 +90,7 @@ body{
   height: 16px;
   flex-direction: column;
   position: relative;
+  cursor: pointer;
 }
 
 .share-box-click{
@@ -188,6 +189,7 @@ body{
   padding: 6px;
   height: 15px;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .invisible{
